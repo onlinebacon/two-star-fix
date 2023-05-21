@@ -10,6 +10,7 @@ Here is a step-by-step guide on how to perform a celestial navigation two-star f
 - [How celestial navigation works](#how-celestial-navigation-works)
     - [Zenith Angle](#zenith-angle)
     - [Ground Position](#ground-position)
+    - [Circle of Position](#circle-of-position)
 
 ## Introduction
 
@@ -31,6 +32,6 @@ If you're again in the subsolar point, that can also be called the geographical 
 
 ### Circle of position
 
-If a certain celestial body isn't at your zenith, then you're not at its GP. But its GP is somewhere else, at a certain distance from you. It turns out this
-distance can be determined by the zenith angle of that body. Each degree of zenith angle corresponds to around 69 miles of distance from your position to the GP of that celestial body. So say you observe Venus 25 degrees below your zenith, that implies you're around 1725 miles away from its GP.
+If a certain celestial body isn't at your zenith then you're not at its GP. But its GP is somewhere else, at a certain distance from you. It turns out that distance can be determined by the zenith angle of that body. Each degree of zenith angle corresponds to around 69 miles of distance between your position and the geographical position of that celestial body.
 
+Say for example you observe Venus 25° below your zenith, that implies you're around 1725 miles away from its GP. Let's also say you don't know where you are but you know where the GP of venus is. Having both a position for the GP of venus and your distance of 1725 miles we could draw a circle on the earth, centered at the GP of venus, with a radius of 1725 miles. If you were inside of this circle, the distance to its GP would be smaller than 1725 miles, so you would observe a zenith angle to Venus lower than 25°. If you were outside the circle, the distance would be greater than 1725 miles, and the zenith angle would be larger than 25°. The only place where you could be to observe Venus to be at 25° below your zenith, would be at the very edge of that circle. 
