@@ -25,6 +25,12 @@ Given all that I went to the most straight forward way to get the coordinates of
 
 The point right overhead an observer is called the **zenith** of that observer. So for example if you happen to be in the subsolar point (the point on the surface directly below the sun) then the sun would be at your zenith. But that won't last for too long, of course, the sun won't stay overhead forever, after a couple of minutes the sun will be lower in the sky. It will have moved from your zenith. With the correct tool you could tell how much it moved. That gets called a **zenith angle**.
 
-### Ground Position
+### Geographical Position
 
 If you're again in the subsolar point, that can also be called the geographical position of the sun, or just the sun's **GP**. The GP of a celestial body is simply the position on the earth where you could see that celestial body directly overhead (at your zenith).
+
+### Circle of position
+
+If a certain celestial body isn't at your zenith, then you're not at its GP. But its GP is somewhere else, at a certain distance from you. It turns out this
+distance can be determined by the zenith angle of that body. Each degree of zenith angle corresponds to around 69 miles of distance from your position to the GP of that celestial body. So say you observe Venus 25 degrees below your zenith, that implies you're around 1725 miles away from its GP.
+
