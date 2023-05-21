@@ -11,8 +11,8 @@ Here is a step-by-step guide on how to perform a celestial navigation two-star f
     - [Zenith Angle](#zenith-angle)
     - [Ground Position](#ground-position)
     - [Circle of Position](#circle-of-position)
-    - [Nautical Almanac](#nautical-almanac)
     - [Position Fix](#position-fix)
+    - [Nautical Almanac](#nautical-almanac)
 - [Vector Rotation](#vector-rotation)
 - [The Method](#the-method)
 
