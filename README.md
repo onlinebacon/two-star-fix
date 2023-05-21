@@ -29,7 +29,7 @@ In this section I will be describing some basic concepts of celestial navigation
 
 ### Zenith Angle
 
-The point right overhead an observer is called the **Zenith** of that observer. So for example if you happen to be at the subsolar point (the point on the surface directly below the sun) then the sun would be at your zenith. But that won't last for too long, of course, the sun won't stay overhead forever, after a couple of minutes the sun will be lower in the sky. It will have moved from your zenith. With the correct tool you could tell how much it moved. That gets called a **Zenith Angle**.
+The point right overhead an observer is called the **Zenith** of that observer. So for example if you happen to be at the subsolar point (the point on the Earth's surface directly below the sun) then the sun would be at your zenith. But that won't last for too long, of course, the sun won't stay overhead forever, after a couple of minutes the sun will be lower in the sky. It will have moved from your zenith. With the correct tool you could tell how much it moved. That gets called a **Zenith Angle**.
 
 ### Geographical Position
 
