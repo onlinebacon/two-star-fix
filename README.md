@@ -9,7 +9,7 @@ Here is a step-by-step guide on how to perform a celestial navigation two-star f
 - [Introduction](#introduction)
 - [How celestial navigation works](#how-celestial-navigation-works)
     - [Zenith Angle](#zenith-angle)
-    - [Ground Position](#ground-position)
+    - [Geographical Position](#geographical-position)
     - [Circle of Position](#circle-of-position)
     - [Nautical Almanac](#nautical-almanac)
     - [Position Fix](#position-fix)
