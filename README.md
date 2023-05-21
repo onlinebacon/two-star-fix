@@ -29,19 +29,19 @@ In this section I will be describing some basic concepts of celestial navigation
 
 ### Zenith Angle
 
-The point right overhead an observer is called the **Zenith** of that observer. So for example if you happen to be at the subsolar point (the point on the Earth's surface directly below the sun) then the sun would be at your zenith. But that won't last for too long, of course, the sun won't stay overhead forever, after a couple of minutes the sun will be lower in the sky. It will have moved from your zenith. With the correct tool you could tell how much it moved. That gets called a **Zenith Angle**.
+The point right overhead an observer is called the **Zenith** of that observer. So for example if you happen to be at the subsolar point (the point on the Earth's surface directly below the Sun) then the Sun would be at your zenith. But that won't last for too long, of course, the Sun won't stay overhead forever, after a couple of minutes the sun will be lower in the sky. It will have moved from your zenith. With the correct tool you could tell how much it moved. That angle gets called a **Zenith Angle**.
 
 ### Geographical Position
 
-If you're again at the subsolar point, that can also be called the **Geographical Position** of the sun, or just the sun's GP. The GP of a celestial body is simply the position on the earth where you could see that celestial body directly overhead (at your zenith).
+If you're again at the subsolar point, that can also be called the **Geographical Position** of the Sun (or the Sun's GP). The GP of a celestial body is simply the position on the Earth where you could see that celestial body directly overhead (at your zenith).
 
 ### Circle of Position
 
 If a certain celestial body isn't at your zenith then you're not at its GP. But its GP is somewhere else, at a certain distance from you. It turns out that distance can be determined by the zenith angle of that body. Each degree of zenith angle corresponds to around 69 miles of distance between your position and the geographical position of that celestial body.
 
-Say for example you observe Venus 25° below your zenith, that implies you're around 1725 miles away from its GP. Let's also say you don't know where you are but you know where the GP of venus is. Having both a position for the GP of venus and your distance of 1725 miles, we could draw a circle on the earth, centered at the GP of venus, with a radius of 1725 miles.
+Say for example you observe Venus to be 25° below your zenith, that implies you're around 1725 miles away from its GP. Let's also say you don't know where you are but you know where the GP of Venus is. Having both a position for the GP of Venus and your distance to it of 1725 miles, we could draw a circle on the earth, centered at the GP of Venus with a radius of 1725 miles.
 
-If you were inside of this circle, the distance to Venus' GP would be smaller than 1725 miles, so you would observe the zenith angle of Venus to be lower than 25°. If you were outside of the circle, the distance would be greater than 1725 miles, and the zenith angle would be larger than 25°. The only place where you could be to observe Venus to be at 25° below your zenith would be at the very edge of that circle. This circle gets called a **Circle of Position** (CoP) because it describes all possible positions you could be at given those two pieces of information.
+If you were inside of this circle, the distance to Venus' GP would be smaller than 1725 miles, so you would observe the zenith angle of Venus to be lower than 25°. If you were outside of the circle, the distance would be greater than 1725 miles, and the zenith angle would be larger than 25°. The only place where you could be to observe Venus' zenith angle to be 25° would be at the very edge of that circle. This circle gets called a **Circle of Position** (CoP) because it describes all possible positions you could be at given those two pieces of information.
 
 ### Nautical Almanac
 
