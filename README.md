@@ -55,6 +55,6 @@ When practically navigating, a common method to figure out your position is to s
 
 ## The Method
 
-Given the context explained so far, by reading two zenith angles of two different celestial bodies, recording the exact time of the readings, with the help of a nautical almanac, you should have enough information to built two circles of position. Because you must be at the edge of both circles at the same time, you can pinpoint your location by finding their intersection.
+Given the context explained so far, by reading two zenith angles of two different celestial bodies, recording the exact time of the readings, with the help of a nautical almanac, you should have enough information to build two circles of position. Because you must be at the edge of both circles at the same time, you can pinpoint your location by finding their intersection.
 
 It was said previously that each degree of zenith equates to 69 miles of distance. That equates to a 1° arc over the surface of the earth. So the zenith angle establish a 1 to 1 relationship to the surface of the earth.
